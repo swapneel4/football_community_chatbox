@@ -33,3 +33,14 @@ Welcome to the **Football Community Chatbox**, an anonymous, real-time group cha
 
 - Fast API - uvicorn main:app --reload
 - web page - streamlit run app.py
+
+---
+
+
+## Screenshots
+
+![LOGIN PAGE](https://github.com/user-attachments/assets/6671ee71-39b8-401f-aacd-977617ad8430)
+
+![CHAT MESSAGES](https://github.com/user-attachments/assets/1f6fc4e9-616e-4773-80bc-f8974e159da0)
+
+![VULAGRISM DETECTION](https://github.com/user-attachments/assets/6771dfb2-14cb-4eb0-923b-e79a4e90f9fb)
