@@ -44,3 +44,11 @@ Welcome to the **Football Community Chatbox**, an anonymous, real-time group cha
 ![CHAT MESSAGES](https://github.com/user-attachments/assets/1f6fc4e9-616e-4773-80bc-f8974e159da0)
 
 ![VULAGRISM DETECTION](https://github.com/user-attachments/assets/6771dfb2-14cb-4eb0-923b-e79a4e90f9fb)
+
+---
+
+## Contact
+
+- For more such projects and queries please connect to my account - http://www.linkedin.com/in/swapneelmauru
+
+---THANK YOU---
